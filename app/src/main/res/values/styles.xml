@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style mce_bogus="1" name="V489DialogWindowAnim" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/anim_dialog_in</item>
+        <item name="android:windowExitAnimation">@anim/anim_dialog_out</item>
+    </style>
+
+    <!--底部弹出Dialog动画-->
+    <style name="progressDialogAnim" parent="android:Animation">
+        <!--<item name="android:windowEnterAnimation">@anim/v5_dialog_bottom_in</item>-->
+        <!--<item name="android:windowExitAnimation">@anim/v5_dialog_bottom_out</item>-->
+    </style>
+</resources>
